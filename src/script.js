@@ -1,4 +1,4 @@
-import daftcodeImgUrl from './assets/daftcode.png'
+/*import daftcodeImgUrl from './assets/daftcode.png'
 
 export default function() {
   const section = document.createElement('section')
@@ -6,4 +6,4 @@ export default function() {
   img.src = daftcodeImgUrl
   section.appendChild(img)
   document.body.appendChild(section)
-}
+}*/
